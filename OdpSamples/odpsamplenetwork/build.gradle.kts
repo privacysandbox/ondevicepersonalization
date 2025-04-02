@@ -18,7 +18,7 @@ android {
 
   sourceSets.getByName("main") {
     java.srcDir("src/main/java")
-    java.srcDir("../../setfilters/java")
+    java.srcDir("../../setfilters/setfilters/src")
   }
 
   buildTypes {
