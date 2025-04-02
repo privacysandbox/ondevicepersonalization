@@ -8,7 +8,8 @@ This repository contains sample code for [On-Device Personalization](https://dev
 ### OdpSamples
 
 - [OdpSamples](OdpSamples) contains sample Android applications for integrating with On-Device Personalization.
-- The sample Apps can be built with Android Studio with Gradle and JDK17.
+- The sample Apps can be [built with Android Studio with Gradle and JDK17](OdpSamples/federated-learning.md).
+- [Federated Learning tutorial](OdpSamples/federated-learning.md)
 
 ### CuckooFilter
 

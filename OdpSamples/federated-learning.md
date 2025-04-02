@@ -95,6 +95,7 @@ This tutorial requires an [On-Device Personalization Federated Compute Server](h
 1. Open the cloned `ondevicepersonalization/OdpSamples` Gradle project in Android Studio
 2. Ensure Android Studio is configured to use Java 17
    - **File > Settings > Build, Execution, Deployment > Build Tools > Gradle > Gradle Jdk > 17**
+   - **File > Sync Project with Gradle Files**
 3. Build all APKs
    - **Build > Build App Bundle(s) / APK(s) > Build APK(s)**
    - This should result in 4 APKs – Ensure the builds are `debug`
