@@ -1,0 +1,26 @@
+# Ignore all bazel-* symlinks. There is no full list since this can change
+# based on the name of the directory bazel is cloned into.
+/bazel-*
+/out
+
+# Compiled libraries.
+**/*.a
+**/*.so
+
+# Bazel cache.
+/.cache/
+
+# Generated vscode files.
+**/.vscode/
+
+# emacs stuff
+*~
+
+# intellij
+.ijwb/
+.idea/
+**/*.iml
+
+# python venv
+venv/
+
